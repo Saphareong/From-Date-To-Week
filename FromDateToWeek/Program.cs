@@ -12,6 +12,7 @@ namespace FromDateToWeek
             {
                 try
                 {
+                    //testing
                     Console.Write("Enter a month: ");
                     int month = int.Parse(Console.ReadLine());
                     if(month < 1 || month > 12)
